@@ -1,4 +1,4 @@
-import { useRef } from "react";
+ import { useRef } from "react";
 import { motion, useMotionValue, useSpring, useTransform } from "framer-motion";
 import { Download } from "lucide-react";
 import { general, skills } from "../data";
